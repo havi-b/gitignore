@@ -10,3 +10,9 @@
 .exe
 .bat
 .csh
+
+# Ignore Node Modules
+/node_modules
+
+# Ignore Lock files
+*.lock
